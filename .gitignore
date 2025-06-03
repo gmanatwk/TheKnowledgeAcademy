@@ -1,0 +1,50 @@
+# .NET / C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+*.dbmdl
+*.log
+*.pdb
+*.cache
+*.config
+*.ide
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Docker
+*.tar
+*.img
+*.container
+docker-compose.override.yml
+.dockerignore
+Dockerfile*
+
+# Node / React
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

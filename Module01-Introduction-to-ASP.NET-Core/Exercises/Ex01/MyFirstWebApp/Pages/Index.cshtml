@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "My First ASP.NET Core App";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@Model.AppSettings.AppName</h1>
+    <p>Version: @Model.AppSettings.Version | Author: @Model.AppSettings.Author</p>
+    
+    @if (ViewData["DebugMessage"] != null)
+    {
+        <div class="alert alert-warning">
+            @ViewData["DebugMessage"]
+        </div>
+    }
+    
+    <div class="alert alert-info mt-4">
+        <h4>Feature Flags:</h4>
+        <ul class="text-start">
+            <li>Logging: @(Model.AppSettings.Features.EnableLogging ? "Enabled" : "Disabled")</li>
+            <li>Debug Info: @(Model.AppSettings.Features.ShowDebugInfo ? "Enabled" : "Disabled")</li>
+            <li>API Endpoints: @(Model.AppSettings.Features.EnableApiEndpoints ? "Enabled" : "Disabled")</li>
+        </ul>
+    </div>
+</div>
