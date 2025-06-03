@@ -325,6 +325,41 @@ const App: React.FC = () => {
 4. How do you handle API calls in React components?
 5. What are some performance optimization techniques for React?
 
+## Answers
+Here’s a breakdown of your questions:
+
+### **Key Advantages of Using React with ASP.NET Core**
+- **Unified Hosting** – You can host both React and ASP.NET Core within a single application, simplifying deployment.
+- **Seamless API Integration** – ASP.NET Core serves as a backend API while React handles the frontend, ensuring modularity.
+- **Improved Performance** – React’s virtual DOM and ASP.NET Core’s efficient request handling make applications faster.
+- **Scalability** – The combination allows for scalable, feature-rich applications.
+- **Streamlined Development** – Visual Studio provides templates for React with ASP.NET Core, making setup easier.
+
+### **Configuring ASP.NET Core to Serve a React SPA**
+- **Use Visual Studio Templates** – ASP.NET Core provides built-in templates for React SPAs.
+- **Proxy Middleware** – Configure middleware to proxy requests from React to ASP.NET Core.
+- **Run CRA Server Independently** – You can run the Create React App (CRA) development server separately.
+- **Use SPA Middleware** – ASP.NET Core’s SPA middleware helps serve React applications efficiently.
+
+### **Difference Between SSR and CSR**
+- **Server-Side Rendering (SSR)** – The server generates the HTML and sends it to the client, improving SEO and initial load speed.
+- **Client-Side Rendering (CSR)** – The browser loads a minimal HTML file and JavaScript dynamically renders the content, making interactions smoother but initial load slower.
+- **Key Differences** – SSR is better for SEO and performance on slow networks, while CSR is ideal for highly interactive applications.
+
+### **Handling API Calls in React Components**
+- **Using Fetch API** – The built-in Fetch API allows making HTTP requests directly.
+- **Using Axios** – Axios simplifies API calls with automatic request and response handling.
+- **React Hooks (useEffect & useState)** – Manage API calls efficiently using hooks to fetch and store data.
+- **Error Handling** – Implement error handling mechanisms to manage failed requests.
+
+### **Performance Optimization Techniques for React**
+- **Lazy Loading** – Load components only when needed to reduce initial load time.
+- **Memoization** – Use `useMemo` and `useCallback` to optimize re-renders.
+- **Code Splitting** – Split code into smaller chunks to improve performance.
+- **Virtualization** – Render only visible items in large lists to save memory.
+- **Debouncing & Throttling** – Optimize event handling to prevent unnecessary re-renders.
+
+
 ## 🎯 Exercises
 
 ### Exercise 1: Basic Integration
