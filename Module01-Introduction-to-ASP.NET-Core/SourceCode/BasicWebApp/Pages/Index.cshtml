@@ -1,0 +1,66 @@
+@page
+@model BasicWebApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to ASP.NET Core Training!</h1>
+    <p class="lead">Learn modern web development with ASP.NET Core</p>
+    
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">🚀 High Performance</h5>
+                    <p class="card-text">ASP.NET Core is optimized for performance and can handle thousands of requests per second.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">🌐 Cross-Platform</h5>
+                    <p class="card-text">Run your applications on Windows, Linux, or macOS. Deploy anywhere!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title">☁️ Cloud-Ready</h5>
+                    <p class="card-text">Built for modern cloud deployments with containerization support.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <h3>Application Information</h3>
+        <table class="table table-striped mx-auto" style="max-width: 600px;">
+            <tbody>
+                <tr>
+                    <td><strong>Application Name:</strong></td>
+                    <td>@Model.ApplicationName</td>
+                </tr>
+                <tr>
+                    <td><strong>Version:</strong></td>
+                    <td>@Model.Version</td>
+                </tr>
+                <tr>
+                    <td><strong>Environment:</strong></td>
+                    <td>@Model.Environment</td>
+                </tr>
+                <tr>
+                    <td><strong>Server Time:</strong></td>
+                    <td>@Model.ServerTime</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="mt-4">
+        <a class="btn btn-primary btn-lg" href="/Privacy">Learn More</a>
+        <a class="btn btn-outline-secondary btn-lg" href="/hello">Test API Endpoint</a>
+    </div>
+</div>
