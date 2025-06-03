@@ -29,3 +29,18 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/* Custom styles for our first app */
+.display-4 {
+    color: #5c2d91;
+    font-weight: bold;
+}
+
+.alert-info {
+    background-color: #e7f3ff;
+    border: 2px solid #004e8c;
+}
+
+.alert-info h4 {
+    color: #004e8c;
+}

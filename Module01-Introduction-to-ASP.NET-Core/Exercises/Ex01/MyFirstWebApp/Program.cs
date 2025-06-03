@@ -28,6 +28,8 @@ if (appSettings?.Features.EnableLogging == true)
     app.UseRequestLogging();
 }
 
+app.UseProcessingTimeMiddleware();
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();

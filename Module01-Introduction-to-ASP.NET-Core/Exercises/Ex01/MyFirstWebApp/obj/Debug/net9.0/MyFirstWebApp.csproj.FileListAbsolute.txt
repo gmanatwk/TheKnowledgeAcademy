@@ -18,7 +18,6 @@ E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\scopedcss\bundle\MyFirstWebApp.styles.css
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\scopedcss\projectbundle\MyFirstWebApp.bundle.scp.css
-E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\compressed\7vhlukzd23-b9sayid5wm.gz
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\compressed\0vzhj7r630-61n19gt1b8.gz
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\compressed\py9nc9wa2y-xtxxf3hu2r.gz
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\compressed\n3ovme66x4-bqjiyaj88i.gz
@@ -96,3 +95,4 @@ E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\MyFirstWebApp.pdb
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\MyFirstWebApp.genruntimeconfig.cache
 E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\ref\MyFirstWebApp.dll
+E:\Downloads\TheKnowledgeAcademy\Module01-Introduction-to-ASP.NET-Core\Exercises\Ex01\MyFirstWebApp\obj\Debug\net9.0\compressed\7vhlukzd23-piqvre6b26.gz

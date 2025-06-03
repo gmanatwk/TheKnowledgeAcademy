@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BVWvWhfTYg8WuW8khfhMZ5yCbdiR/nxSw7+HG9QxiRQ=",
+  "Hash": "k8X3qkiBGtZMOYI2oX4APLwiZnPLAa67fVx/cc2Fx/o=",
   "Source": "MyFirstWebApp",
   "BasePath": "_content/MyFirstWebApp",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-b9sayid5wm.gz",
+      "Identity": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-piqvre6b26.gz",
       "SourceId": "MyFirstWebApp",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyFirstWebApp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=piqvre6b26}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -346,8 +346,8 @@
       "RelatedAsset": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "otnzmgaaek",
+      "Integrity": "XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "piqvre6b26",
+      "Integrity": "AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-piqvre6b26.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.002320185615"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "430"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "898"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-piqvre6b26.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.piqvre6b26.css",
+      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-piqvre6b26.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002320185615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "430"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "piqvre6b26"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.piqvre6b26.css",
+      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "piqvre6b26"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-AatQNGYhXe1aetYNrAzc4POeliVM+c4rlNpN7QvWQs4="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-b9sayid5wm.gz",
+      "Route": "css/site.piqvre6b26.css.gz",
+      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-piqvre6b26.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "430"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
+          "Value": "Tue, 03 Jun 2025 15:47:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "piqvre6b26"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "E:\\Downloads\\TheKnowledgeAcademy\\Module01-Introduction-to-ASP.NET-Core\\Exercises\\Ex01\\MyFirstWebApp\\obj\\Debug\\net9.0\\compressed\\7vhlukzd23-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 15:12:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-XJkKPJCmmMlOh18rCTN1R4FQxg6C4n+TC7I6mC8ReBk="
         }
       ]
     },
